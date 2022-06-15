@@ -16,7 +16,7 @@
 - 💼 Estou em busca de aprimorar meus conhecimentos para me tornar um profissional completo;
 - 💬 Pergunte-me sobre qualquer coisa, adoro conversar sobre diversos assuntos;
 - 📫 Para contato, envie um email para **bruno.zolini@hotmail.com**.
-- 📝 Meu <a href="https://brunozolini.github.io/" target="_blank">Portfólio</a>.
+- 📝 Meu <a href="https://bruno-zolini.vercel.app/" target="_blank">Portfólio</a>.
 
 ## Linguagens e ferramentas 🛠️
 
