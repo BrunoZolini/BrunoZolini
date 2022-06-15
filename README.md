@@ -1,7 +1,7 @@
 ## Olá 👋
 
 <div>
-  Meu nome é <strong>Bruno Zolini</strong>, sou formado em Ciências Contábeis, mas como sempre fui apaixonado por tecnologia resolvi fazer uma transição de carreira para trabalhar com Desenvolvimento de Software! 🚀
+  Meu nome é <strong>Bruno Zolini</strong>, sou formado em Ciências Contábeis mas, como sempre fui apaixonado por tecnologia, resolvi fazer uma transição de carreira para trabalhar com Desenvolvimento de Software! 🚀
 
 </div>
 
@@ -10,10 +10,10 @@
 
   <img align="right" alt="img" src="https://media.discordapp.net/attachments/163018412262424576/986330803661340682/b0f82515-3537-482a-851f-33819fd10a95.jpeg" width="200px"/>
 
-- 👨🏼‍💻 Estou estudando desenvolvimento de Software na <a href="https://www.betrybe.com/" target="_blank">Trybe<a/>, uma escola de desenvolvimento full stack. São mais de 1500 horas de formação que aborda fundamentos de desenvolvimento web, desenvolvimento, Front-end, Back-end, ciência da computação, metodologias ágeis e habilidades comportamentais.
-- 🌱 Atualmente estou no modulo de Back-end; 
-- 🤔 Meus hobbies são bem diversos, gosto muito de jogos online, cozinhar e praticar esportes;
-- 💼 Estou estou em busca de aprimorar meus conhecimentos para me tornar um profissional completo;
+- 👨🏼‍💻 Estou estudando desenvolvimento de Software na <a href="https://www.betrybe.com/" target="_blank">Trybe<a/>, uma escola de desenvolvimento full stack. São mais de 1500 horas de formação que abordam fundamentos de desenvolvimento web, Front-end, Back-end, ciência da computação, metodologias ágeis e habilidades comportamentais.
+- 🌱 Atualmente estou no módulo de Back-end; 
+- 🎮 Meus hobbies são bem diversos, gosto muito de jogos online, cozinhar e praticar esportes;
+- 💼 Estou em busca de aprimorar meus conhecimentos para me tornar um profissional completo;
 - 💬 Pergunte-me sobre qualquer coisa, adoro conversar sobre diversos assuntos;
 - 📫 Para contato, envie um email para **bruno.zolini@hotmail.com**.
 - 📝 Meu <a href="https://brunozolini.github.io/" target="_blank">Portfólio</a>.
