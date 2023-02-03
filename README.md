@@ -11,8 +11,8 @@
   <img align="right" alt="img" src="https://cdn.discordapp.com/attachments/1071041803010191362/1071046525725179914/b0f82515-3537-482a-851f-33819fd10a95.png" 
     width="200px"/>
 
-- 👨🏼‍💻 Estou estudando desenvolvimento de Software na <a href="https://www.betrybe.com/" target="_blank">Trybe<a/>, uma escola de desenvolvimento full stack. São mais de 1500 horas de formação que abordam fundamentos de desenvolvimento web, Front-end, Back-end, ciência da computação, metodologias ágeis e habilidades comportamentais.
-- 🌱 Atualmente estou no módulo de Back-end; 
+- 👨🏼‍💻 Sou desenvolvedor Front-end
+- 🌱 Atualmente estou trabalhando na XP Inc.; 
 - 🎮 Meus hobbies são bem diversos, gosto muito de jogos online, cozinhar e praticar esportes;
 - 💼 Estou em busca de aprimorar meus conhecimentos para me tornar um profissional completo;
 - 💬 Pergunte-me sobre qualquer coisa, adoro conversar sobre diversos assuntos;
