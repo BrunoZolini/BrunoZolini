@@ -8,7 +8,8 @@
 
 ## About me 😃
 
-  <img align="right" alt="img" src="https://media.discordapp.net/attachments/163018412262424576/986330803661340682/b0f82515-3537-482a-851f-33819fd10a95.jpeg" width="200px"/>
+  <img align="right" alt="img" src="https://cdn.discordapp.com/attachments/1071041803010191362/1071046525725179914/b0f82515-3537-482a-851f-33819fd10a95.png" 
+    width="200px"/>
 
 - 👨🏼‍💻 Estou estudando desenvolvimento de Software na <a href="https://www.betrybe.com/" target="_blank">Trybe<a/>, uma escola de desenvolvimento full stack. São mais de 1500 horas de formação que abordam fundamentos de desenvolvimento web, Front-end, Back-end, ciência da computação, metodologias ágeis e habilidades comportamentais.
 - 🌱 Atualmente estou no módulo de Back-end; 
